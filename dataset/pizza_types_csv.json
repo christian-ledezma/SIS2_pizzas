@@ -13,7 +13,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "pizzatypes.csv",
+				"fileName": "pizza_types.csv",
 				"container": "pizzassales"
 			},
 			"columnDelimiter": ",",
